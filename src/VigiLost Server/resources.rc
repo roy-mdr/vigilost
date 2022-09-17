@@ -1,0 +1,33 @@
+//#include <windows.h>
+
+
+IDI_ICON1   ICON    DISCARDABLE "vigiServer.ico"
+
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILEOS 0x4
+FILETYPE 0x0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904B0"
+    BEGIN
+      VALUE "CompanyName", "ImTheROY"
+      VALUE "FileDescription", "VigiLost SERVER app."
+      VALUE "FileVersion", "1,0,0,0"
+      VALUE "InternalName", "VigiLost_server"
+      VALUE "LegalCopyright", "Copyright © 2016 ImTheROY"
+      VALUE "LegalTrademarks1", "All Rights Reserved"
+      VALUE "LegalTrademarks2", "All Rights Reserved"
+      VALUE "OriginalFilename", "VigiLost_server.exe"
+      VALUE "ProductName", "VigiLost"
+      VALUE "ProductVersion", "1,0,0,0"
+    END
+  END 
+  
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x0409, 0x04B0
+  END
+END
