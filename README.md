@@ -1,5 +1,7 @@
-# vigilost
+# VigiLost
 School project for finding lost objects
+
+![vigilost](https://user-images.githubusercontent.com/8226073/190870229-0ff50fc8-3623-4034-a87e-e28c24f34103.jpg)
 
 ## Setup and build
 
